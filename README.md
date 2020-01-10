@@ -1,5 +1,7 @@
 ##### Author: Vincent Yeo
 
+## Image Recognition with MNIST dataset
+
 #### Background:
 
 The MNIST database contains 70000 images of handwritten digits from 0 to 9, a subset of the [NIST](https://www.nist.gov/srd/nist-special-database-19) database, that has been preprocessed in normalising size and centering of the image.
